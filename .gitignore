@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+*.swp
+.env
+.pylintrc
+*.egg-info/
+demos/.ipynb_checkpoints/
+demos/__pycache__/
+demos/data/state_of_the_union.txt
+demos/session-2/chroma_logs.log
+demos/session-2/.chromadb/
+demos/data/prompts.jsonl
+.DS_Store
+demos/.DS_Store
+demos/session-2/chromadb/
