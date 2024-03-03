@@ -39,7 +39,7 @@ If you don't have conda, you can install it [here](https://docs.conda.io/project
 Once installed, run the following command to create a new environment called `pe-for-llms`. 
 
 ```sh
-conda create -n pe-for-llms
+conda create -n pe-for-llms python=3.9
 ```
 
 Next, activate the conda environment.
